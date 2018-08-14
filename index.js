@@ -1,2 +1,2 @@
 var recipes = new Object ({})
-var Object = { prop: 1 }
+var obj = { prop: 1 }
